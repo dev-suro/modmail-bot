@@ -102,7 +102,7 @@ const Manageusers = create_ssr_component(($$result, $$props, $$bindings, slots) 
     }
   });
   $$result.css.add(css);
-  return `${$$result.head += `${$$result.title = `<title>FyFu Modmail</title>`, ""}`, ""}
+  return `${$$result.head += `${$$result.title = `<title>RaceCord Modmail</title>`, ""}`, ""}
 
 
 
