@@ -3,7 +3,7 @@ export const manifest = {
 	assets: new Set(["assets/icons/arrow-right.svg","assets/icons/blocked.svg","assets/icons/discord_id.svg","assets/icons/discord_link.svg","assets/icons/logout.svg","assets/icons/pen.svg","assets/icons/plus.svg","assets/icons/quote.svg","assets/icons/search-thin.svg","assets/icons/search.svg","assets/icons/tickets.svg","assets/icons/user-settings.svg","assets/icons/x.svg"]),
 	mimeTypes: {".svg":"image/svg+xml"},
 	_: {
-		entry: {"file":"start-1969ab3c.js","js":["start-1969ab3c.js","chunks/index-0eb8b19d.js","chunks/index-d4f4015a.js","chunks/preload-helper-e4860ae8.js","chunks/singletons-d1fb5791.js"],"css":[]},
+		entry: {"file":"immutable/start-92d948e5.js","imports":["immutable/start-92d948e5.js","immutable/chunks/index-3ca681f6.js","immutable/chunks/index-ada3a1c3.js","immutable/chunks/preload-helper-4c397a37.js","immutable/chunks/singletons-cdeec3fd.js"],"stylesheets":[]},
 		nodes: [
 			() => import('./server/nodes/0.js'),
 			() => import('./server/nodes/1.js'),

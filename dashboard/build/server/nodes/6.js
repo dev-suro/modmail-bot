@@ -1,6 +1,7 @@
 import * as module from '../entries/pages/snippets.svelte.js';
 
 export { module };
-export const entry = 'pages/snippets.svelte-37ee5b08.js';
-export const js = ["pages/snippets.svelte-37ee5b08.js","chunks/index-0eb8b19d.js","chunks/Rolling-20a2b11f.js","chunks/InfiniteScroll-0d6a794f.js","chunks/Popup-dbd8009a.js","chunks/index-d4f4015a.js"];
-export const css = ["assets/pages/snippets.svelte-0fcb7e7f.css","assets/Rolling-bb063e28.css"];
+export const index = 6;
+export const file = 'immutable/pages/snippets.svelte-5fcd4ebc.js';
+export const imports = ["immutable/pages/snippets.svelte-5fcd4ebc.js","immutable/chunks/index-3ca681f6.js","immutable/chunks/Rolling-b95190fc.js","immutable/chunks/InfiniteScroll-789ab387.js","immutable/chunks/Popup-ab4b0a99.js","immutable/chunks/index-ada3a1c3.js"];
+export const stylesheets = ["immutable/assets/snippets-8c6be4a0.css","immutable/assets/Rolling-2d2c9fb9.css"];

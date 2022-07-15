@@ -1,6 +1,6 @@
-import { d as db } from "../../../../chunks/db-27ceeaba.js";
+import { d as db } from "../../../../immutable/chunks/db-8f3108ad.js";
 import "mysql2";
-import "../../../../chunks/config-3e06af2b.js";
+import "../../../../immutable/chunks/config-40b67dc0.js";
 import "fs";
 async function get(event) {
   if (!event.locals.userData)
@@ -95,4 +95,9 @@ async function put(event) {
     };
   }
 }
-export { del, get, patch, put };
+export {
+  del,
+  get,
+  patch,
+  put
+};

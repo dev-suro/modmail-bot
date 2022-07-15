@@ -1,4 +1,4 @@
-import { c as config } from "../../../../chunks/config-3e06af2b.js";
+import { c as config } from "../../../../immutable/chunks/config-40b67dc0.js";
 import "fs";
 async function get(event) {
   var _a;
@@ -28,4 +28,6 @@ async function get(event) {
     body: roles
   };
 }
-export { get };
+export {
+  get
+};

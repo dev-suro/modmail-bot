@@ -1,6 +1,7 @@
 import * as module from '../entries/pages/tickets/_ticketId_.svelte.js';
 
 export { module };
-export const entry = 'pages/tickets/_ticketId_.svelte-1060b1bd.js';
-export const js = ["pages/tickets/_ticketId_.svelte-1060b1bd.js","chunks/index-0eb8b19d.js","chunks/Rolling-20a2b11f.js","chunks/navigation-0e6511d1.js","chunks/singletons-d1fb5791.js"];
-export const css = ["assets/pages/tickets/_ticketId_.svelte-85d41e37.css","assets/Rolling-bb063e28.css"];
+export const index = 7;
+export const file = 'immutable/pages/tickets/_ticketId_.svelte-95c062f5.js';
+export const imports = ["immutable/pages/tickets/_ticketId_.svelte-95c062f5.js","immutable/chunks/index-3ca681f6.js","immutable/chunks/Rolling-b95190fc.js","immutable/chunks/navigation-88dbfef8.js","immutable/chunks/singletons-cdeec3fd.js"];
+export const stylesheets = ["immutable/assets/[ticketId]-6f7876b3.css","immutable/assets/Rolling-2d2c9fb9.css"];

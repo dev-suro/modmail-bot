@@ -5,4 +5,6 @@ function get(event) {
     body: Number(BigInt(snowflake) >> 22n) + 14200704e5
   };
 }
-export { get };
+export {
+  get
+};
